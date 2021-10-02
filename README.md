@@ -13,3 +13,5 @@ There you have it! Your audiobook!
 
 ## Step-by-Step tutorial on how to create this is on my blog 
 You can check it out and create yours.
+
+https://sophyia.me/turn-your-pdf-into-an-audiobook-using-python
